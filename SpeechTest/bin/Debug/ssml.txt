@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<speak version="1.0"
+ xmlns="http://www.w3.org/2001/10/synthesis"
+ xml:lang="en-US">
+
+<sentence>
+The phone number is one eight hundred <break strength="weak" />
+five five five <break time="500ms" /> one two three four.
+#这里演示的是一段英文中断
+</sentence>
+
+</speak>

@@ -1,0 +1,10 @@
+H:\编程(C)\自研开发\SpeechTest\bin\Debug\SpeechTest.exe.config
+H:\编程(C)\自研开发\SpeechTest\bin\Debug\SpeechTest.exe
+H:\编程(C)\自研开发\SpeechTest\bin\Debug\SpeechTest.pdb
+H:\编程(C)\自研开发\SpeechTest\bin\Debug\Speech.dll
+H:\编程(C)\自研开发\SpeechTest\bin\Debug\Speech.pdb
+H:\编程(C)\自研开发\SpeechTest\obj\Debug\SpeechTest.csproj.AssemblyReference.cache
+H:\编程(C)\自研开发\SpeechTest\obj\Debug\SpeechTest.csproj.CoreCompileInputs.cache
+H:\编程(C)\自研开发\SpeechTest\obj\Debug\SpeechTest.csproj.CopyComplete
+H:\编程(C)\自研开发\SpeechTest\obj\Debug\SpeechTest.exe
+H:\编程(C)\自研开发\SpeechTest\obj\Debug\SpeechTest.pdb
