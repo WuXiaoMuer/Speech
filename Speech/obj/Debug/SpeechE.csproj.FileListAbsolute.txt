@@ -1,0 +1,7 @@
+H:\编程(C)\自研开发\Speech\bin\Debug\Speech.dll
+H:\编程(C)\自研开发\Speech\bin\Debug\Speech.pdb
+H:\编程(C)\自研开发\Speech\obj\Debug\SpeechE.csproj.CoreCompileInputs.cache
+H:\编程(C)\自研开发\Speech\obj\Debug\Speech.dll
+H:\编程(C)\自研开发\Speech\obj\Debug\Speech.pdb
+H:\编程(C)\自研开发\Speech\obj\Debug\SpeechE.csproj.AssemblyReference.cache
+H:\编程(C)\自研开发\Speech\bin\Debug\Speech.tlb

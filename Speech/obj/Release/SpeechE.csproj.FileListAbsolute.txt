@@ -1,0 +1,7 @@
+H:\编程(C)\自研开发\Speech\bin\Release\Speech.dll
+H:\编程(C)\自研开发\Speech\bin\Release\Speech.pdb
+H:\编程(C)\自研开发\Speech\obj\Release\SpeechE.csproj.CoreCompileInputs.cache
+H:\编程(C)\自研开发\Speech\obj\Release\Speech.dll
+H:\编程(C)\自研开发\Speech\obj\Release\Speech.pdb
+H:\编程(C)\自研开发\Speech\obj\Release\SpeechE.csproj.AssemblyReference.cache
+H:\编程(C)\自研开发\Speech\bin\Release\Speech.tlb
